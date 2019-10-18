@@ -9,5 +9,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.TOKEN }}
-        issue-message: 'Message that will be displayed on users'' first issue'
+        issue-message: 'This is a test issue message'' first issue'
         pr-message: 'This is a test message for PR'' first pr'
