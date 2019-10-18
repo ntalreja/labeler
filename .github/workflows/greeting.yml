@@ -10,4 +10,4 @@ jobs:
       with:
         repo-token: ${{ secrets.TOKEN }}
         issue-message: 'Message that will be displayed on users'' first issue'
-        pr-message: 'Message that will be displayed on users'' first pr'
+        pr-message: 'This is a test message for PR'' first pr'
